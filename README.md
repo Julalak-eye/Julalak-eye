@@ -20,17 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
 
 <br />
+<h3 align="left">GitHub Stats</h3>
+<img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
-
-</details>
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="julalak GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julalak-eye" />
-
-</details>
