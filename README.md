@@ -8,11 +8,10 @@
 <a href="https://discord.gg/#5642" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5642" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julalak-eye&show_icons=true&locale=en&layout=compact" alt="julalak-eye" /></p>
+### Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&locale=en" alt="julalak-eye" /></p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julalak-eye&" alt="julalak-eye" /></p>
+<br />
