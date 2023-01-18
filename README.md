@@ -2,7 +2,8 @@
 <h3 align="center">Make your stance by not stopping to learn.</h3>
 
 <br />
--I’m a third year Computer Science student at KMUTT.
+- 🌱 I’m a third year Computer Science student at KMUTT.
+- 📄 Know about my experiences [https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br />
 <h3 align="left">Connect with me:</h3>
