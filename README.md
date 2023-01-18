@@ -13,7 +13,7 @@
 </p>
 
 <br />
-### Languages and Tools:
+Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
 
