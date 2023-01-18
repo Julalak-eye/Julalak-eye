@@ -25,5 +25,5 @@
 <h3 align="left">GitHub Stats</h3>
 <img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
 
-<h3 align="right">GitHub Streak</h3>
-<img align="right" alt="julalak GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=julalak-eye&border_radius=4&mode=weekly)](https://git.io/streak-stats)" />
+<h3 align="left">GitHub Streak</h3>
+<img align="left" alt="julalak GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=julalak-eye&border_radius=4&mode=weekly)](https://git.io/streak-stats)" />
