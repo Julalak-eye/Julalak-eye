@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm julalak pongsri</h1>
 <h3 align="center">Make your stance by not stopping to learn.</h3>
 
+<br />
 -I’m a third year Computer Science student at KMUTT.
 
 <h3 align="left">Connect with me:</h3>
