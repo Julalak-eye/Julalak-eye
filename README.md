@@ -4,7 +4,7 @@
 <br />
 - 🌱 I’m a third year Computer Science student at KMUTT
 <br />
-- 📄 Know about my experiences **[Resume]**
+- 📄 Know about my experiences [Resume]
 
 <br />
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +24,4 @@
 <img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
 
 <!-- links -->
-[Resume]: https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+[Resume]: [https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
