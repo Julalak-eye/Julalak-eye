@@ -25,5 +25,6 @@
 <h3 align="left">GitHub Stats</h3>
 <img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
 
-<!-- links -->
-[Resume]: [https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFN354c0L0/9yq2-5C9hNvwH5OhGg3few/view?utm_content=DAFN354c0L0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+<br />
+<h3 align="left">GitHub Streak</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julalak-eye&border_radius=4&mode=weekly)](https://git.io/streak-stats)
