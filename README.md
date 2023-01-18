@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm julalak pongsri</h1>
 <h3 align="center">Make your stance by not stopping to learn.</h3>
-<h3 align="left">I’m a third year Computer Science student at KMUTT.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julalak-eye&label=Profile%20views&color=0e75b6&style=flat" alt="julalak-eye" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julalak-eye" alt="julalak-eye" /></a> </p>
-
-
+-I’m a third year Computer Science student at KMUTT.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
