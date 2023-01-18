@@ -18,12 +18,13 @@
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
 
+<br />
+<h3 align="left">My GitHub Stats and GitHub Streak</h3>
 
 <p>
-<img align="left" alt="julalak GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=julalak-eye&show_icons=true&hide_border=true" />
 </p>
 
 <p>
