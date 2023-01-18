@@ -3,10 +3,6 @@
 
 <br />
 - 🌱 I’m a third year Computer Science student at KMUTT
-<br />
-- 📄 Know about my experiences [Resume]
-
-
 
 <br />
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +14,7 @@
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
+<br />
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,php,java,js,py,mysql,vscode,xd,figma)](https://skillicons.dev)
 
 <br />
